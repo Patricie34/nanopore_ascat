@@ -1,0 +1,103 @@
+{
+    "samplesheet": [
+        {
+            "name": "BRNO1794",
+            "type": "bam_simplex",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO1794/nano/mapped/simplex",
+            "chemistry": "v10",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2161",
+            "type": "bam_simplex",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2161/nano/mapped/simplex",
+            "chemistry": "v10",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2217",
+            "type": "bam_simplex",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2217/nano/mapped/simplex",
+            "chemistry": "v10",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2543",
+            "type": "bam_simplex",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2543/nano/mapped/simplex",
+            "chemistry": "v10",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2641",
+            "type": "bam_simplex",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2641/nano/mapped/simplex",
+            "chemistry": "v10",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2013",
+            "type": "bam_merged",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2013/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO0627",
+            "type": "bam_merged",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO0627/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO1727",
+            "type": "bam_merged",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO1727/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO1837",
+            "type": "bam_merged",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO1837/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO2170",
+            "type": "bam_merged",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO2170/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        },
+        {
+            "name": "BRNO1837",
+            "type": "bam_ascat",
+            "path": "/storage1/01.NanoBreak/data/samples/BRNO1837/nano/mapped/merged",
+            "chemistry": "v10/v14",
+            "basecall_qual": "sup",
+            "reference": "GrCh38",
+            "gpu": "nvidia.com/gpu"
+        }
+    ]
+}
